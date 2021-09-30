@@ -2683,3 +2683,44 @@ display: none;
 body{
     overflow-x: hidden !important;
 }
+
+
+/* 404 styles  */
+@media only screen and (min-width: 1000px){
+    .style-of-404-main-text{
+        color: #0479d8;
+        text-align: center;
+        font-size: 80px;
+        font-family: yekanplusbold;
+    }
+    .style-of-404-text{
+        color: black;
+        font-family: yekanplusbold;
+        text-align: center;
+        font-size: 25px;
+    }
+    .style-of-mianbor-on-404-page{
+        text-decoration: none;
+        padding: 25px;
+    }
+    }
+    @media only screen and (max-width: 1000px){
+    .style-of-404-main-text{
+        color: #0479d8;
+        text-align: center;
+        font-size: 80px;
+        font-family: yekanplusbold;
+    }
+    .style-of-404-text{
+        color: black;
+        font-family: yekanplusbold;
+        text-align: center;
+        font-size: 25px;
+    }
+    .style-of-mianbor-on-404-page{
+        text-decoration: none;
+        padding: 25px;
+        font-size: 20px;
+    }
+    }
+/* end 404 styles  */
