@@ -2699,9 +2699,18 @@ body{
         text-align: center;
         font-size: 25px;
     }
+    .style-of-404-text2{
+        color: red;
+        font-family: yekanplusbold;
+        text-align: center;
+        font-size: 25px;
+    }
     .style-of-mianbor-on-404-page{
         text-decoration: none;
         padding: 25px;
+        font-family: yekanplusbold;
+        color: #010cad;
+        text-align: center !important;
     }
     }
     @media only screen and (max-width: 1000px){
@@ -2717,10 +2726,27 @@ body{
         text-align: center;
         font-size: 25px;
     }
+    .style-of-404-text2{
+        color: red;
+        font-family: yekanplusbold;
+        text-align: center;
+        font-size: 25px;
+    }
     .style-of-mianbor-on-404-page{
         text-decoration: none;
-        padding: 25px;
-        font-size: 20px;
+        padding: 5%;
+        font-size: 30px;
+        color: #010cad;
+        text-align: center !important;
+        font-family: yekanplusbold;
+    }
+    .style-of-404-td{
+        width: 50% !important; 
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+    .style-of-404-tr{
+        width: 100% !important; 
     }
     }
 /* end 404 styles  */
