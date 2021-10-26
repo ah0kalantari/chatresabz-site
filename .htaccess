@@ -13,3 +13,9 @@ RewriteEngine On
 RewriteBase /
 RewriteCond %{HTTP_HOST} ^104\.21\.13\.46$
 RewriteRule ^(.*)$ http://chatresabz.co/$1 [L,R=301]
+
+<ifModule mod_deflate.c>
+<filesMatch "\.(css|js|x?html?|php|woff|ttf|png|jpg|gif|html|)$">
+SetOutputFilter DEFLATE
+</filesMatch>
+</ifModule>
