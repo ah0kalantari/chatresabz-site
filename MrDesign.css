@@ -883,6 +883,7 @@
     }
     .width-30-100-pc{
         width: 30% !important;
+        margin-left: 35%;
     }
     .width-33-100-pc{
         width: 33% !important;
@@ -892,9 +893,11 @@
     }
     .width-40-100-pc{
         width: 40% !important;
+        margin-left: 30%;
     }
     .width-50-100-pc{
         width: 50% !important;
+        margin-left: 24%;
     }
     .width-60-100-pc{
         width: 60% !important;
