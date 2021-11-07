@@ -253,7 +253,7 @@
         text-decoration: none !important;
         color: white !important;
         font-family: iransans;
-        font-size: 13px !important;
+        font-size: 17px !important;
         list-style: none;
         padding: 10px 15px;
     }
@@ -976,7 +976,7 @@
     }
     .left-left-p {
         color: black !important;
-        font-size: small !important;
+        font-size: 17px !important;
         font-family: iransans !important;
         text-align: center;
         padding-right: 3px !important;
@@ -1158,7 +1158,7 @@
 }
 @font-face {
     font-family: iransans;
-    src: url('fonts/iranian sans.ttf');
+    src: url('../fonts/IRAN\ Sans\ Bold.ttf');
 }
 .style-pf-secret-key-words{
     font-size: 1px;
