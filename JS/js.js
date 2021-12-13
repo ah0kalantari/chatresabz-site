@@ -178,3 +178,4 @@ setInterval(function(){
     disno();
     slide[n].style.display = 'block';
 },5000)
+
